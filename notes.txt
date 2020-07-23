@@ -1,0 +1,22 @@
+float has 6 decimal places.
+12.123456
+1234.000000
+
+int = %d
+float = %f
+char = %c = 'd'
+
+whenever there is a function it has () sign behind it.
+we can create our own functions and can use all library function which is available with c
+
+all library files include functions inside it.
+we have to include this file to use its functions.
+
+int void float double long char are datatypes which is used to declare variables
+and return type of value from a function
+and arguements which is passed with a function.
+
+int main(int)
+when we write a datatype before a function it shows return type,
+
+when we write datatype and variable inside brackets of function it shows arguements.
